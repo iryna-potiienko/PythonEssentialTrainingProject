@@ -32,7 +32,7 @@ class TerminalScribe:
         self.trail = '.'
         self.mark = '*'
         self.framerate = 0.2
-        self.pos = [10, 10]  # change start position
+        self.pos = [10, 10]  # changed start position
 
     def up(self):
         pos = [self.pos[0], self.pos[1] - 1]
