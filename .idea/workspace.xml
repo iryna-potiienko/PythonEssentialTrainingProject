@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a6c113ac-6830-409a-a5cb-ee42688a6c79" name="Changes" comment="" />
+    <list default="true" id="a6c113ac-6830-409a-a5cb-ee42688a6c79" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Chapter 3/degree_challenge.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,10 +17,16 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2IrBcxEtRefkuRHHqIxuQumUvOv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -26,8 +35,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/zoipotii/PycharmProjects/PythonEssentialTraining/Chapter 2",
-    "settings.editor.selected.configurable": "preferences.keymap"
+    "last_opened_file_path": "C:/Users/zoipotii/OneDrive - Carl Zeiss AG/Linkedin courses/Python Essential Training/python-essential-training-2449125-main-rev/exercise_files/03_06_challenge.py",
+    "settings.editor.selected.configurable": "project.propVCSSupport.Mappings"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -119,6 +128,9 @@
     </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\zoipotii\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="a6c113ac-6830-409a-a5cb-ee42688a6c79" name="Changes" comment="" />
@@ -128,5 +140,16 @@
       <updated>1670929904610</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
